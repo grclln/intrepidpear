@@ -18,16 +18,18 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder CSV
-# tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Digital Collection Magic with Static Web Technologies
+title: Pierce Playbill Collection
+tagline: a journey from the personal to the professional
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology."
+description: "This collection contains theatrical playbills from the early 2000s to the mid-2020s. The
+creators of these playbills include professional theatre companies, community theatre
+organizations, national touring companies, Broadway and Off-Broadway theatre houses, and
+university sponsored theatrical productions."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: idaho; history; inland northwest
+keywords: Theater; Theater programs; Summer theater; Work in the theater; Theatrical companies; College theater; Theatre playbills
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: grclln
 
 ##########
 # COLLECTION SETTINGS
